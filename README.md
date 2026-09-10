@@ -1,5 +1,9 @@
-<div align="center">
+<div align="center" width="50">
 
+<!-- Dynamic Greeting Banner with your name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hello+Coders!+👋;I'm+Hamza+Ahmed;Biomedical+Engineer+%7C+Data+Scientist" alt="Typing SVG" />
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 # 👋 Hi, I'm Hamza Ahmed
 
 ### Biomedical Engineer | Data Analyst | Aspiring Data Scientist
