@@ -16,7 +16,7 @@ while combining my biomedical engineering background with software and data tech
 ![Profile Views](https://komarev.com/ghpvc/?username=HamzaAhmedAmin\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hamzaahmedamin)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat\&logo=youtube\&logoColor=white)](https://youtube.com/)
+[![YouTube](https://www.youtube.com/watch?v=GDME5kZpcx4)](https://youtube.com/)
 
 </div>
 
