@@ -1,102 +1,195 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+# 👋 Hi, I'm Hamza Ahmed
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+### Biomedical Engineer | Data Analyst | Aspiring Data Scientist
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 
-</details>
+<p>
+I'm a Biomedical Engineer with a strong interest in <b>Data Analysis, Data Science, and AI</b>.
+<br>
+I enjoy turning raw data into meaningful insights and building data-driven solutions,
+while combining my biomedical engineering background with software and data technologies.
+</p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=HamzaAhmedAmin\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hamzaahmedamin)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat\&logo=youtube\&logoColor=white)](https://youtube.com/)
+
 </div>
 
-<hr></hr>
+<hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+## 🚀 About Me
 
-```dart
-// tools_I_use organized
+* 🎓 Biomedical Engineering graduate from **Higher Technological Institute (HTI)**
+* 📊 Focused on **Data Analysis & Data Science**
+* 🐍 Working with **Python, SQL, Excel, Power BI, and Tableau**
+* 🤖 Exploring **Machine Learning, AI, and MLOps**
+* 🏥 Interested in applying **Data & AI to Healthcare and Biomedical Engineering**
+* 🔧 Background in **Medical Devices, Electronics, Arduino, and Robotics**
+* 👨‍🏫 Software Instructor for **Python, C++, Robotics, ROS, Linux & Communication Protocols**
+* 📈 Currently building practical projects in **Data Analytics, BI, Machine Learning & Forecasting**
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
+<hr>
+
+## 🛠️ Tools & Technologies
+
+### 📊 Data Analytics & BI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=postgresql\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
+
+### 🤖 Data Science & AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-3C8C3C?style=flat)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat\&logo=mlflow\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat\&logo=arduino\&logoColor=white)
+
+### 🏥 Biomedical Engineering
+
+![Medical Devices](https://img.shields.io/badge/Medical%20Devices-0A6EBD?style=flat)
+![X-Ray](https://img.shields.io/badge/X--Ray-607D8B?style=flat)
+![Ultrasound](https://img.shields.io/badge/Ultrasound-607D8B?style=flat)
+![PACS](https://img.shields.io/badge/PACS%20%2F%20DICOM-1976D2?style=flat)
+![HL7](https://img.shields.io/badge/HL7-1976D2?style=flat)
+
+### ⚙️ Other Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat\&logo=ros\&logoColor=white)
+
+<hr>
+
+## 📌 Featured Projects
+
+### 📈 Walmart M5 Sales Forecasting
+
+End-to-end Data Science project using approximately **59M sales records** across **3,049 products and 10 stores**.
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Feature Engineering
+* Time Series Forecasting
+* LightGBM
+* Demand Prediction
+
+### 🏨 Hotel Booking Performance Analysis
+
+Business Intelligence project analyzing **119K+ hotel bookings**.
+
+* SQL Server
+* Data Modeling
+* Star Schema
+* DAX
+* Power BI
+* Data Visualization
+* Business Insights
+
+The analysis identified a **37% cancellation rate** and approximately **$42.72M in revenue**, with recommendations to improve booking performance.
+
+### 🩺 Liver Cancer Detection
+
+Medical image processing project using **MATLAB** for image processing and segmentation to support early liver cancer detection.
+
+### 🤖 Autonomous Sumo Robot
+
+Autonomous robotics project that achieved **3rd place in an IEEE Egypt competition**.
+
+### 💊 Hospital Delivery Robot
+
+Developed a robot following a predefined path to distribute medications inside a hospital environment.
+
+🏆 **3rd Place – College-level Competition**
+
+### 💊 Pharmacy Inventory Management System
+
+C++ application designed to track and manage pharmaceutical inventory efficiently.
+
+<hr>
+
+## 🧠 Currently Learning
+
+```text
+Data Analysis
+    ├── Python
+    ├── SQL
+    ├── Excel
+    ├── Power BI
+    └── Tableau
+
+Data Science
+    ├── Statistics
+    ├── Data Cleaning
+    ├── EDA
+    ├── Feature Engineering
+    ├── Machine Learning
+    └── MLOps
+
+Healthcare Technology
+    ├── Medical Imaging
+    ├── PACS / DICOM
+    ├── Healthcare AI
+    └── Clinical Data
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+<hr>
 
-<div align="center" >
-<a  href="https://github.com/SP-XD">
+## 👨‍🏫 Teaching & Volunteering
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+**Software Member Instructor – Al Siddiq**
+
+Teaching and supporting students in:
+
+`Python` • `C++` • `Robotics` • `ROS` • `Linux` • `Communication Protocols`
+
+**Biomedical Engineering Club (BMEC)**
+
+Participated in event organization, public relations, and technical activities.
+
+<hr>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/HamzaAhmedAmin">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaAhmedAmin&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmedAmin&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
 </div>
 
+<hr>
+
+## 💡 My Goal
+
+> **Combining Biomedical Engineering with Data Science and AI to build smarter, data-driven healthcare solutions.**
+
+<hr>
+
+<div align="center">
+
+### 💻 Data → 📊 Insights → 🤖 Intelligence → 🏥 Healthcare
+
+</div>
