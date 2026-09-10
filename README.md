@@ -4,7 +4,7 @@
 
 ### Biomedical Engineer | Data Analyst | Aspiring Data Scientist
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<img src="https://github.com/HamzaAhmedAmin" alt="Hello Coders" width="60%"/>
 
 <p>
 I'm a Biomedical Engineer with a strong interest in <b>Data Analysis, Data Science, and AI</b>.
