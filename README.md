@@ -167,11 +167,13 @@ Participated in event organization, public relations, and technical activities.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 <a href="https://github.com/HamzaAhmedAmin">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAhmedAmin&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
-  <img src="https://deno-github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmedAmin&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=HamzaAhmedAmin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HamzaAhmedAmin&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
 </a>
 
 </div>
